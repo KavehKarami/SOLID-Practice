@@ -1,5 +1,5 @@
 // NOTE Without Dependency Inversion Principle:
-// stripe currency is a Cents but paypal currency is a dollar
+// stripe's currency is a Cents but paypal currency is a dollar
 
 class Store {
   constructor(user) {
